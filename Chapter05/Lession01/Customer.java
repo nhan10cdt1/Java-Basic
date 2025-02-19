@@ -1,4 +1,4 @@
-package Chapter05.Bai01;
+package Chapter05.Lession01;
 
 public class Customer {
     private String name; //
